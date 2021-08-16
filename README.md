@@ -1,7 +1,7 @@
-<h1>OTroll<img src="https://github.com/SpiceX/OTroll/blob/master/assets/logo-min.png" height="64" width="64" align="left" alt=""></h1><br>
+<h1>OTroll<img src="https://github.com/SpiceX/OTroll/blob/master/assets/icon.jpg" height="64" width="64" align="left" alt=""></h1><br>
 
 <b>The troll plugin with the most features and a modern GUI interface for PocketMine-MP.</b><br>
-[![License](https://img.shields.io/github/license/SpiceX/OTroll)](https://github.com/SpiceX/OTroll)
+[![](https://poggit.pmmp.io/shield.state/OTroll)](https://poggit.pmmp.io/p/OTroll)
 [![Star](https://img.shields.io/github/stars/SpiceX/OTroll)](https://github.com/SpiceX/OTroll/stargazers)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/dagonzalez211)
 [![](https://poggit.pmmp.io/shield.dl.total/OTroll)](https://poggit.pmmp.io/p/OTroll)
