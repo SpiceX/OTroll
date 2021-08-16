@@ -1,0 +1,12 @@
+name: OTroll
+main: spice\otroll\OTroll
+version: 1.0.0-alpha
+api: 3.0.0
+author: Spice
+website: https://github.com/SpiceX
+mcpe-protocol: 448
+
+permissions:
+  otroll.cmd:
+    default: op
+    description: troll command permission
