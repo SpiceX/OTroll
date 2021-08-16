@@ -1,4 +1,4 @@
-<h1>OTroll<img src="https://raw.githubusercontent.com/SpiceX/OTroll/master/icon.png" height="64" width="64" align="left" alt=""></h1><br>
+<h1>OTroll<img src="https://raw.githubusercontent.com/SpiceX/OTroll/master/icon.jpg" height="64" width="64" align="left" alt=""></h1><br>
 
 <b>The troll plugin with the most features and a modern GUI interface for PocketMine-MP.</b><br>
 [![](https://poggit.pmmp.io/shield.state/OTroll)](https://poggit.pmmp.io/p/OTroll)
