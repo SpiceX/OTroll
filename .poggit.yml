@@ -5,5 +5,5 @@ branches:
 projects:
   OTroll:
     path: ""
-    icon: "icon.jpg"
+    icon: "logo-min.png"
 ...
